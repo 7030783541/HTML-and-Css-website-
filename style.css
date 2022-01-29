@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    text-align:center;
+
+
+     
+}
+h1{
+    font-size: 90px;
+    margin-top: 50px;
+    font-family:'Sacramento', cursive; 
+    font-weight: bold;
+    color: #000000 ;
+    
+     
+}
+h2{
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 40px;
+    color: #0011ff ;
+    padding-bottom: 10px;
+}
+
+.top-container{
+    background-color: #99f8f8;
+    padding-bottom: 100px;
+
+}
+.middle-container{
+    margin: 100px 0;
+    background-color: #ffffff;
+}
+.bottom-container{
+    background-color: #00ffea;
+    padding: 50px 0 20px;
+}
+.python{
+    width: 25%;
+}
+hr{
+    border:dotted #0066ff 4px;
+    width :4% ;
+    border-bottom: none;
+    margin: 100px auto;
+}
+a{
+    color: rgb(31, 53, 151);
+}
+a:hover{
+    color: #d40000;
+}
+.copyright{
+    color: rgb(252, 84, 243);
+}
+.btn {
+    background: #34d9b8;
+    background-image: -webkit-linear-gradient(top, #34d9b8, #227575);
+    background-image: -moz-linear-gradient(top, #34d9b8, #227575);
+    background-image: -ms-linear-gradient(top, #34d9b8, #227575);
+    background-image: -o-linear-gradient(top, #34d9b8, #227575);
+    background-image: linear-gradient(to bottom, #34d9b8, #227575);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Courier New;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 11px 20px;
+    border: solid #381f8c 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  © Copyright. 2
